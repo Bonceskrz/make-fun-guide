@@ -8,9 +8,9 @@
 
 This guide takes you from zero to your first submission, step by step. It was written by a builder who has actually entered: our food-picture entry finished 680th of 4,332, and our two news-image entries are awaiting results in early December 2026.
 
-> **New here? Start with my link:** [https://make.fun/r/25edvy2m](https://make.fun/r/25edvy2m)
+> **New here? Start with my link:** [https://make.fun/r/63nkdywc](https://make.fun/r/63nkdywc)
 >
-> My referral code is `25edvy2m`. Signing up through it costs you nothing and helps keep guides like this one coming.
+> My referral code is `63nkdywc`. Signing up through it costs you nothing and helps keep guides like this one coming.
 
 ## Contents
 
@@ -57,7 +57,7 @@ Four things to understand before anything else:
 
 ## 1. Create your account
 
-1. Open [https://make.fun/r/25edvy2m](https://make.fun/r/25edvy2m) and click **Sign in** at the top right.
+1. Open [https://make.fun/r/63nkdywc](https://make.fun/r/63nkdywc) and click **Sign in** at the top right.
 2. Sign in with GitHub, Google, Apple, Discord or a Solana wallet. All of them are free, and signing in with a wallet sends no transaction.
 3. Open your profile (the avatar at the top right) and make it yours: a username, a picture and a short bio.
 4. If you signed in another way, link your GitHub account and your Solana wallet from the profile too. Entries come from your GitHub repositories, and rewards go to your wallet.
@@ -193,7 +193,7 @@ Your link, what each reward is worth right now, and everything you have earned a
 
 **Sharing it well.** A link nobody sees earns nothing, so share the guide where developers already hang out — a dev Discord, a forum thread, a post on X, a comment under a video about AI coding. Share the guide, not just the bare link: people sign up for the tutorial, and the link inside it does the rest. Do not spam, and do not buy signups — fake or bot accounts never count, and the review catches them. One honest share that brings a real builder beats a hundred empty clicks.
 
-If this guide helped, signing up through [my link](https://make.fun/r/25edvy2m) (code `25edvy2m`) is a nice way to say thanks — and if you go on to win, it earns me a share of your prize on top, at no cost to you.
+If this guide helped, signing up through [my link](https://make.fun/r/63nkdywc) (code `63nkdywc`) is a nice way to say thanks — and if you go on to win, it earns me a share of your prize on top, at no cost to you.
 
 ## About this bounty: Bring the humans again
 
@@ -269,4 +269,4 @@ Written by the builder behind [@eager-otter-54](https://make.fun/u/eager-otter-5
 
 ---
 
-<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/25edvy2m · code `25edvy2m`</sub>
+<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/63nkdywc · code `63nkdywc`</sub>
